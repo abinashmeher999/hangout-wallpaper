@@ -1,0 +1,23 @@
+{
+  "name": "hangout-wallpaper",
+  "version": "1.0.0",
+  "description": "Fetches the background image when hangouts.google.com is opened and sets it as the wallpaper.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abinashmeher999/hangout-wallpaper.git"
+  },
+  "keywords": [
+    "wallpaper",
+    "hangouts"
+  ],
+  "author": "Abinash Meher",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abinashmeher999/hangout-wallpaper/issues"
+  },
+  "homepage": "https://github.com/abinashmeher999/hangout-wallpaper#readme"
+}
